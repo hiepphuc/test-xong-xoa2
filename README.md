@@ -2,3 +2,4 @@
 commit 1 main
 commit 2 main
 commit 1 branch1
+commit 2 branch1
