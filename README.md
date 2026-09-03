@@ -6,3 +6,4 @@ commit 2 branch1
 commit 1 branch2
 commit 2 branch2
 commit 1 test1
+commit 2 test2
